@@ -49,6 +49,7 @@ The complete report can be found in the [report.csv](report.csv) file, below is 
 | Hooklift          | significant |
 | Mejorando.la      | significant |
 | MiCarga.com       | none        |
+| Monoku            | minor       |
 | MortgageHippo     | none        |
 | Ojala             | none        |
 | Oppten            | none        |
